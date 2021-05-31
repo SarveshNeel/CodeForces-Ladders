@@ -1,6 +1,6 @@
 | Index | Problem | Difficulty | Solved |
 | --- | --- | --- | --- |
-| 1 | [Lunar New Year and Number Division](https://codeforces.com/problemset/problem/1106/C) | 1000 |YES|
+| 1 | [Lunar New Year and Number Division](https://codeforces.com/problemset/problem/1106/C) | 1000 |  |
 | 2 | [Bad Sequence](https://codeforces.com/problemset/problem/1214/C) | 1200 |  |
 | 3 | [Bracket Subsequence](https://codeforces.com/problemset/problem/1023/C) | 1200 |  |
 | 4 | [Dishonest Sellers](https://codeforces.com/problemset/problem/779/C) | 1200 |  |
@@ -22,7 +22,7 @@
 | 20 | [Ehab and a 2-operation task](https://codeforces.com/problemset/problem/1088/C) | 1400 |  |
 | 21 | [Maximum Median](https://codeforces.com/problemset/problem/1201/C) | 1400 |  |
 | 22 | [Sonya and Robots](https://codeforces.com/problemset/problem/1004/C) | 1400 |  |
-| 23 | [Everyone is a Winner!](https://codeforces.com/problemset/problem/1263/C) | 1400 | YES |
+| 23 | [Everyone is a Winner!](https://codeforces.com/problemset/problem/1263/C) | 1400 |  |
 | 24 | [Journey](https://codeforces.com/problemset/problem/839/C) | 1500 |  |
 | 25 | [Edgy Trees](https://codeforces.com/problemset/problem/1139/C) | 1500 |  |
 | 26 | [Vladik and fractions](https://codeforces.com/problemset/problem/743/C) | 1500 |  |
